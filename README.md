@@ -1,4 +1,4 @@
-# Resource leak detection OvS-DPDK using gdb's python hooks
+# Resource leak detection in OvS-DPDK using gdb's python hooks
 
 This method could also be adapted to find rte_mem leaks (unless that has it's
 own leak detection framework) or other resource leaks such as file descriptor
